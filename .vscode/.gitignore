@@ -1,0 +1,8 @@
+# Ignorar diretórios e arquivos gerados automaticamente
+node_modules/
+dist/
+.vscode/
+*.log
+*.tmp
+*.bak
+.DS_Store
